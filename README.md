@@ -11,5 +11,5 @@ cargo new day01_hello --vcs none
 Variable, Package, Print
 - [Day 02 - BMI Calculator](day02_bim_cal/)
 Shadow variables, type (int, float), cast
-- [Day 03 - FizBuzz, EzyCal](day_03_01_fizzbuzz/, day_03_02_ezy_cal)
+- [Day 03 - FizBuzz, EzyCal](day03_01_fizzbuzz/, day03_02_ezy_cal)
 fn, if, forloop, expression block
